@@ -1,0 +1,2 @@
+average differential fairness:  0.188
+absolute unfairness:  0.022
