@@ -11,7 +11,7 @@ The code is tested on windows and linux operating systems. It should work on any
 
 ## Running NFCF model
 
-* Pre-processed MovieLens dataset is provided in "train-test" folder. The dataset contains interactions users with movies and occupations.
+* Pre-processed MovieLens dataset is provided in "train-test" folder. The dataset contains interactions of users with movies and occupations.
 * Step-1 (pre-training): Run the code using "run_preTrainNCF.py" file. The pre-trained NCF model will be saved in "trained-models" folder.
 * Step-2 (de-biasing embeddings): Run the code using "run_debiasing_userEmbeddings.py" file. The de-biased user embeddings will be saved in "results" folder.
 * Step-3 (fine-tuning): Run the code using "run_nfcf_career_recommend.py" file. The model will be fine-tuned with necessary fairness interventions. Evaluation results on the test set will be saved in the "results" folder.
