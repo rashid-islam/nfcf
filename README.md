@@ -25,4 +25,5 @@ The code is tested on windows and linux operating systems. It should work on any
 
 ## Reference Paper
 
-R. Islam, K.N. Keya, Z. Zeng, S. Pan, and J.R. Foulds. Debiasing career recommendations with neural fair collaborative filtering. In Proceedings of the Web Conference (WWW) (accepted, in press), 2021
+R. Islam, K.N. Keya, Z. Zeng, S. Pan, and J.R. Foulds. Debiasing career recommendations with neural fair collaborative filtering. In Proceedings of the Web Conference (WWW), 2021. [PDF](https://rashid-islam.github.io/homepage/files/papers/Debiasing_career_recommend_with_NFCF.pdf).
+
